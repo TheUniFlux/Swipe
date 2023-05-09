@@ -1,0 +1,27 @@
+{
+  "name": "com.kingdox.uniflux.swipe",
+  "displayName": "UniFlux.Swipe",
+  "version": "1.0.0",
+  "author": "Kingdox",
+  "unity": "2019.3",
+  "description": "Swipe Module",
+  "keywords": [
+    "flux",
+    "unity",
+    "uniflux"
+  ],
+  "dependencies": {
+    "com.kingdox.uniflux":"^1.0.0"
+  },
+  "license": "MIT",
+  "category": "Flux",
+  "repository": 
+  {
+    "url": "https://github.com/kingdox/UniFlux.Swipe.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/kingdox/UniFlux/issues"
+  },
+  "homepage": "https://github.com/kingdox/UniFlux#readme"
+}
