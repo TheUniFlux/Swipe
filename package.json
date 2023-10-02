@@ -1,8 +1,8 @@
 {
-  "name": "com.kingdox.uniflux.swipe",
+  "name": "com.xavierarpa.uniflux.swipe",
   "displayName": "UniFlux.Swipe",
   "version": "1.0.0",
-  "author": "Kingdox",
+  "author": "Xavier Arpa",
   "unity": "2019.3",
   "description": "Swipe Module",
   "keywords": [
@@ -11,17 +11,17 @@
     "uniflux"
   ],
   "dependencies": {
-    "com.kingdox.uniflux":"^1.0.0"
+    "com.xavierarpa.uniflux":"^1.0.0"
   },
   "license": "MIT",
   "category": "Flux",
   "repository": 
   {
-    "url": "https://github.com/kingdox/UniFlux.Swipe.git",
+    "url": "https://github.com/xavierarpa/UniFlux.Swipe.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/kingdox/UniFlux/issues"
+    "url": "https://github.com/xavierarpa/UniFlux/issues"
   },
-  "homepage": "https://github.com/kingdox/UniFlux#readme"
+  "homepage": "https://github.com/xavierarpa/UniFlux#readme"
 }
